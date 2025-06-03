@@ -3,7 +3,7 @@ Make sure you have the required dependencies needed to run this bot. See [here](
 
 Clone the repo on your system:
 
-    git clone https://github.com/echtejosh/chocolate-bot
+    git clone https://github.com/echtejosh/management-bot
 
 Then, navigate to the directory and install the NPM packages:
 
